@@ -26,7 +26,7 @@ const preethi = {
 
 ## Technical Skills
 <div align="center">
-
+  
 #### <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> Programming Languages
 ```python
 languages = {
